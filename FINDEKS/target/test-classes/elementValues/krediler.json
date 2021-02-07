@@ -1,0 +1,25 @@
+[
+  {
+    "key": "Krediler",
+    "value":"//span[@class='m']//cufontext[text()='Krediler']",
+    "type": "xpath"
+  },{
+  "key": "ihtiyacKredileri",
+  "value": "//a[contains(text(),'İhtiyaç Kredileri')]",
+  "type": "xpath"
+},
+  {
+    "key": "detayliBilgi",
+    "value": "//div[@class='cont']/a[@href='/sizin-icin/ihtiyac-kredisi/']",
+    "type": "xpath"
+  },
+  {
+    "key": "FindeksRiskRapor",
+    "value": "//a[contains(text(),'Findeks Risk Raporu Nedir, Kredi Notunuzu Nasıl Öğrenebilirsiniz ?')]",
+    "type": "xpath"},
+
+  {
+    "key": "FRRNotu",
+    "value": "//a[contains(text(),'Findeks notunuzu öğrenmek için tıklayınız.')]",
+    "type": "xpath"}
+]

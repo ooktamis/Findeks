@@ -1,0 +1,12 @@
+[
+  {
+    "key": "bireyselPaket",
+    "value": "//a[@href='https://www.findeks.com/paketler#bireysel']",
+    "type": "xpath"
+  },
+  {
+    "key": "satinAl",
+    "value": "//a[@href='#satinal']",
+    "type": "xpath"
+  }
+]

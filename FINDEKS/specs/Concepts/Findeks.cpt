@@ -1,0 +1,32 @@
+#TEB anasayfa acilis
+*Anasayfaya gidilir
+*"Krediler" uzerine gel bekle
+*"5" saniye bekle
+*"ihtiyacKredileri" tikla
+*"5" saniye bekle
+
+#TEB ihtiyac kredileri sayfasi
+*"detayliBilgi" tikla
+*"3" saniye bekle
+*"findeksRiskRapor" elementi var mi
+*"3" saniye bekle
+*"findeksRiskRapor" tikla
+*"3" saniye bekle
+*"FRRNotu" elementi var mi
+*"3" saniye bekle
+*"FRRNotu" tikla
+*"3" saniye bekle
+
+#Findeks risk raporu sayfasi
+*"3" saniye bekle
+*"bireyselPaket" elementi var mi
+*"3" saniye bekle
+*"bireyselPaket" tikla
+*"3" saniye bekle
+*"satinAl" elementi var mi
+*"satinAl" tikla
+
+#Yeni sekme kapatma
+*"6" saniye bekle
+*Yeni Sekme Kapatmak
+*"6" saniye bekle
